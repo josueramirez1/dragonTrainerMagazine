@@ -1,0 +1,68 @@
+body {
+  margin: 0 auto;
+  max-width: 40em;
+  width: 88%;
+  font-family: "Grenze Gotisch", serif;
+
+  background-color: hsl(206, 21%, 42%);
+}
+
+iframe {
+  margin: 2.4rem 0 0 4.8rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+  color: hsl(23, 52%, 70%);
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 2.8rem;
+  margin-bottom: 0;
+}
+
+h1,
+.description {
+  color: #f7efd3;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+
+.info {
+  color: hsl(42, 69%, 78%);
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+
+.description {
+  font-size: 1.4rem;
+}
+
+.ata {
+  color: hsl(23, 52%, 70%);
+  font-size: 1.2rem;
+  margin-bottom: 4rem;
+}
+
+a:link,
+a:visited {
+  color: hsl(42, 69%, 78%);
+}
+
+a:hover,
+a:active {
+  color: hsl(42, 69%, 68%);
+}
+
+hr {
+  border-color: #f7efd3;
+}
