@@ -6,7 +6,7 @@ A fictional magazine website depicting insightful articles and bios
 
 ## Demo
 
-Insert gif or link to demo
+
 
 https://josueramirez1.github.io/dragonTrainerMagazine/## Color Reference
 
