@@ -8,7 +8,9 @@ A fictional magazine website depicting insightful articles and bios
 
 
 
-https://josueramirez1.github.io/dragonTrainerMagazine/## Color Reference
+https://josueramirez1.github.io/dragonTrainerMagazine/## 
+
+Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
